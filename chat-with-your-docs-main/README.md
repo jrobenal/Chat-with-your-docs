@@ -1,6 +1,6 @@
 # Chat with Your Documents
 
-This Streamlit application allows users to upload a document (Word or text), ask questions about the document, and receive responses using a language model.
+This Streamlit application allows users to upload a document (Word or text), ask questions about the document, and receive responses using Amazon Bedrock for Embeddings and Claude for the language model.
 
 ## Prerequisites
 
